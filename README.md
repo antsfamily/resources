@@ -1,8 +1,13 @@
 # resources
 
+
+## datasets
+
+- [datasets](datasets/index.md)
+
 ## coding
 
-- [Ô´Âë»ñÈ¡](./coding/index.md)
+- [coding](./coding/index.md)
 
 ## Latex
 
