@@ -1,3 +1,3 @@
-# Ô´Âë»ñÈ¡
+# coding
 
 - [sparselab](http://sparselab.stanford.edu/)
