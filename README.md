@@ -17,3 +17,7 @@
 ## Markdown
 
 - [A excellent conversion tool for markdown](http://blog.didispace.com/tools/online-markdown/): Markdown --> WeiChat
+
+## download
+
+- [baidu edu](https://eduai.baidu.com/)
