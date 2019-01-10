@@ -1,6 +1,12 @@
 # resources
 
 
+## Knowledge Base
+
+- [Wolfram Mathworld](http://mathworld.wolfram.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+
+
 ## datasets
 
 - [datasets](datasets/index.md)
