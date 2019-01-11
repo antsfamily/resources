@@ -1,7 +1,7 @@
 # Image DataSets
 
-- [Natural Scene Image](./nsi.md)
-- [Remote Sensing Image](./rsi.md)
+- [Natural Scene Image](./nsi/index.md)
+- [Remote Sensing Image](./rsi/index.md)
 
 
 ## Collections
