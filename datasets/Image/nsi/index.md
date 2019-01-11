@@ -1,9 +1,7 @@
-# Natural Scene Image
+# Natural Scene Image DataSets
 
-## Compression
-
-- [Kodak](http://r0k.us/graphics/kodak/): Lossless True Color Image Suite
-
+- [Natural Scene Image](./nsi/index.md)
+- [Remote Sensing Image](./rsi/index.md)
 
 
 ## Collections
