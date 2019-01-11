@@ -1,6 +1,11 @@
 # DataSets
 
+## Type
+
 - [Image](./Image/index.md)
+
+
+## Task
 
 - [Machine Learning](./ml/index.md)
 
