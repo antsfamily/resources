@@ -10,7 +10,7 @@
 - 招生咨询传真: 029-88204236
 - 邮箱: zsb@mail.xidian.edu.cn
 - 微信: 西电招生办
-- 微博: http://weibo.com/xdzsb
+- 微博: [http://weibo.com/xdzsb](http://weibo.com/xdzsb)
 - 微信新生群: xdxlb001
 - 招生办公室
    - 北校区办公楼125室, 电话: 029-88204236
