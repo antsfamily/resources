@@ -5,7 +5,7 @@
 
 ### 联系方式
 
-- [官网](https://zsb.xidian.edu.cn/index.html): https://zsb.xidian.edu.cn/index.html
+- 官网: [https://zsb.xidian.edu.cn/index.html](https://zsb.xidian.edu.cn/index.html)
 - 招生咨询电话: 029-88202335 
 - 招生咨询传真: 029-88204236
 - 邮箱: zsb@mail.xidian.edu.cn
@@ -38,7 +38,7 @@
 ### 联系方式
 
 
-- [官网](https://gr.xidian.edu.cn/): https://yz.xidian.edu.cn/ 或 https://gr.xidian.edu.cn/
+- 官网: [https://yz.xidian.edu.cn/](https://yz.xidian.edu.cn/) 或 [https://yz.xidian.edu.cn/](https://yz.xidian.edu.cn/)
 - 电 话: 029-88202786
 - 传 真: 029-88202786
 - 邮箱: gr@xidian.edu.cn
@@ -49,6 +49,6 @@
 
 ## 有用链接
 
-- [西电123导航](http://123.xidian.edu.cn/): http://123.xidian.edu.cn/ , 含所有西电相关网站链接
+- [西电123导航](http://123.xidian.edu.cn/): [http://123.xidian.edu.cn/](http://123.xidian.edu.cn/) , 含所有西电相关网站链接
 
 
