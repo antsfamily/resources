@@ -1,5 +1,9 @@
 # resources
 
+## [Info](./info/index.md)
+
+- [西电](./info/xidian/index.md)
+
 
 ## Knowledge Base
 
