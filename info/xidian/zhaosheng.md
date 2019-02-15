@@ -29,6 +29,9 @@
 - [西安电子科技大学2019年自主招生简章](): 尚未公布
 - [西安电子科技大学2018年自主招生简章](https://zsb.xidian.edu.cn/html/zsxx/zszhc/2018/0321/1000.html)
 - [西安电子科技大学2017年自主招生简章](https://zsb.xidian.edu.cn/html/zsxx/zszhc/2017/0317/889.html)
+- [2018年陕西省自主招生、高校专项专业代码查询](https://zsb.xidian.edu.cn/html/zsxx/zsdt/2018/0625/1062.html)
+- [2018年自主招生考试成绩公布及合格考生名单公示通知](https://zsb.xidian.edu.cn/html/zsxx/zsdt/2018/0622/1060.html)
+- [2018年西安电子科技大学自主招生合格考生回执](https://zsb.xidian.edu.cn/html/zsxx/zsdt/2018/0711/1067.html)
 
 
 -----------------------------------------------------------
@@ -38,7 +41,7 @@
 ### 联系方式
 
 
-- 官网: [https://yz.xidian.edu.cn/](https://yz.xidian.edu.cn/) 或 [https://yz.xidian.edu.cn/](https://yz.xidian.edu.cn/)
+- 官网: [https://gr.xidian.edu.cn/](https://gr.xidian.edu.cn/) 或 [https://yz.xidian.edu.cn/](https://yz.xidian.edu.cn/)
 - 电 话: 029-88202786
 - 传 真: 029-88202786
 - 邮箱: gr@xidian.edu.cn
