@@ -44,3 +44,11 @@
 - 邮箱: gr@xidian.edu.cn
 - 微信: xidianyzb
 - 招生咨询QQ: 1371190496
+
+
+
+## 有用链接
+
+- [西电123导航](http://123.xidian.edu.cn/): http://123.xidian.edu.cn/ , 含所有西电相关网站链接
+
+
