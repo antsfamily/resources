@@ -17,7 +17,7 @@
 
 ### 政策查询
 
-- [本科招生信息网](https://zsb.xidian.edu.cn/index.html): 西安电子科技大学所有 **本科** 招生相关信息, 含 ``招生政策, 招生章程, 招生计划, 报考指南, 历年分数查询`` 等等
+- [本科招生信息网](https://zsb.xidian.edu.cn/index.html): 西安电子科技大学所有 **本科** 招生相关信息, 含 [招生政策](https://zsb.xidian.edu.cn/html/zsxx/zszhc/) , [招生章程](https://zsb.xidian.edu.cn/html/zsxx/zszc/), [招生计划](https://zsb.xidian.edu.cn/html/zsxx/zsjh/), [报考指南](https://zsb.xidian.edu.cn/html/zsxx/bkzn/), [历年分数](https://zsb.xidian.edu.cn/html/zsxx/lnfs/) 等等
    - [招生政策](https://zsb.xidian.edu.cn/html/zsxx/zszhc/)
    - [历年分数](https://zsb.xidian.edu.cn/html/zsxx/lnfs/)
 
