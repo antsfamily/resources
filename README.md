@@ -1,9 +1,13 @@
 # resources
 
-## [Info](./info/index.md)
+## Info
 
 - [西电](./info/xidian/index.md)
 
+
+## Writing
+
+- [Writing](./writing/index.md)
 
 ## Knowledge Base
 
