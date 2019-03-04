@@ -13,4 +13,8 @@
 - [西电就业](./jiuye.md)
 
 
+## 联系方式
 
+- [各机构](https://yz.xidian.edu.cn/yyjs/jbqk1.htm)
+- [各部门](https://yz.xidian.edu.cn/yyjs/jbqk2.htm)
+- [各学院](https://yz.xidian.edu.cn/yyjs/jbqk4.htm)
