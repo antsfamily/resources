@@ -11,6 +11,8 @@
 - [Center for Imaging Science (CIS)](http://cis.jhu.edu/index.php): People, Research, DataSets, Software
 - [Aminer](https://www.aminer.cn/): Data, Knowledge, Intelligence
 - [Advanced Google](https://www.advancedgoogle.com/)
+- [Rodrigob's github page](http://rodrigob.github.io/): Publications, Code, Data, Contact, Publications, Code, Data, Contact
+- [christophm's github page](https://christophm.github.io/): Book, Collaboration, Blog
 
 
 ## Writing
@@ -34,7 +36,7 @@
 ## Latex
 
 - [overleaf](https://www.overleaf.com/): Collaborative Writing and Publishing, Latex Templates
-
+- [overleaf v2](https://v2.overleaf.com/)
 
 ## Markdown
 
