@@ -50,3 +50,11 @@
 
 - [baidu edu](https://eduai.baidu.com/)
 - [proxyee-down](https://github.com/proxyee-down-org/proxyee-down): 一款开源的免费 HTTP 高速下载器
+
+## Open Course
+
+- [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/schedule)
+- [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/lectures-2018.html)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [CS230 Deep Learning](http://cs230.stanford.edu/)
+- [Science of Deep Learning: Bridging Theory and Practice](https://people.csail.mit.edu/madry/6.883/)
