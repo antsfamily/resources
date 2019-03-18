@@ -14,6 +14,7 @@
 - [Rodrigob's github page](http://rodrigob.github.com): Publications, Code, Data, Contact, Publications, Code, Data, Contact
 - [christophm's github page](https://christophm.github.io/): Book, Collaboration, Blog
 - [The Berkeley Segmentation Dataset and Benchmark](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+- [Ron Rubinstein](http://www.cs.technion.ac.il/~ronrubin/index.html): Machine Learning, Computer Vision and Image Processing
 
 ## Writing
 
