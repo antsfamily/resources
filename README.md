@@ -63,3 +63,8 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [CS230 Deep Learning](http://cs230.stanford.edu/)
 - [Science of Deep Learning: Bridging Theory and Practice](https://people.csail.mit.edu/madry/6.883/)
+
+
+## competition
+
+- [datafountain](https://www.datafountain.cn/)
