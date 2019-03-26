@@ -17,6 +17,9 @@
 
 - [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview): very rich!
 
+### Git
+
+- [Git Pro](https://gitee.com/progit/)
 
 
 ## Windows
