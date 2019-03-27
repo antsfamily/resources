@@ -12,6 +12,13 @@
 ## Usefull Websites
 
 
+- 引文格式
+   - [Citation Style Language](https://citationstyles.org/)
+- 期刊缩写
+   - [abbrv jabref](http://abbrv.jabref.org/): JabRef软件可以随意切换缩写格式
+   - [abbrv jabref github](https://github.com/antsfamily/abbrv.jabref.org)
+   - [abbrv jabref github journals](https://github.com/JabRef/abbrv.jabref.org/tree/master/journals)
+   - [abbrv CSL github](https://github.com/citation-style-language/abbreviations)
 - 单词释义
    - [dictionary](https://www.dictionary.com/)
 
@@ -23,3 +30,4 @@
    - [linggle](https://www.linggle.com/): 
 - 句子搜索
    - [ludwig](https://ludwig.guru/): 从很多文章中搜索类似句子
+
