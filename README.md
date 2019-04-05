@@ -63,7 +63,8 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [CS230 Deep Learning](http://cs230.stanford.edu/)
 - [Science of Deep Learning: Bridging Theory and Practice](https://people.csail.mit.edu/madry/6.883/)
-
+- [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall18/)
+- [Statistical Learning Theory](http://maxim.ece.illinois.edu/teaching/spring18/index.html)
 
 ## competition
 
