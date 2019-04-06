@@ -45,6 +45,7 @@
 - [overleaf](https://www.overleaf.com/): Collaborative Writing and Publishing, Latex Templates
 - [overleaf v2](https://v2.overleaf.com/)
 - [mathpix](https://mathpix.com/): Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
+- [LaTex Templates](http://www.latextemplates.com/)
 
 
 ## Markdown
