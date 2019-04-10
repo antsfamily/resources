@@ -30,15 +30,15 @@
 
 ## DataSets
 
-- [datasets](datasets/index.md)
+- [DataSets](datasets/index.md)
 
 ## Benchmarks
 
-- [Benchmarks](Benchmarks/index.md)
+- [Benchmarks](benchmarks/index.md)
 
 ## Coding
 
-- [coding](./coding/index.md)
+- [Coding](./coding/index.md)
 
 ## Latex
 
