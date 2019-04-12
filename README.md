@@ -17,6 +17,8 @@
 - [Ron Rubinstein](http://www.cs.technion.ac.il/~ronrubin/index.html): Machine Learning, Computer Vision and Image Processing
 - [Machine Learning Mastery](https://machinelearningmastery.com/): Jason Brownlee, PhD. 
 - [hcorrada](http://hcorrada.github.io) or [hcbravo](http://www.hcbravo.org): Statistical and computational methods for high-throughput genomics. Interactive data visualization. Metagenomics. Computational epigenomics.
+- [Katie Bouman](http://people.csail.mit.edu/klbouman/index.html): Imaging of Medical, Blackhole. California Institute of Technology 
+
 
 ## Writing
 
