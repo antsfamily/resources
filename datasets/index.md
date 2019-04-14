@@ -10,7 +10,6 @@
 - [Machine Learning](./ml/index.md)
 
 
-
 ## Collections
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)

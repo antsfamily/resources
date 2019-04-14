@@ -18,7 +18,7 @@
 - [Machine Learning Mastery](https://machinelearningmastery.com/): Jason Brownlee, PhD. 
 - [hcorrada](http://hcorrada.github.io) or [hcbravo](http://www.hcbravo.org): Statistical and computational methods for high-throughput genomics. Interactive data visualization. Metagenomics. Computational epigenomics.
 - [Katie Bouman](http://people.csail.mit.edu/klbouman/index.html): Imaging of Medical, Blackhole. California Institute of Technology 
-
+- [Bruce Rosen's Web Pages](http://web.cs.ucla.edu/~rosen/)
 
 ## Writing
 
@@ -72,3 +72,9 @@
 ## competition
 
 - [datafountain](https://www.datafountain.cn/)
+
+
+
+# Organization
+
+- [Statistical Machine Translation](http://www.statmt.org/) : papers, codes, datasets
