@@ -42,6 +42,10 @@
 
 - [Coding](./coding/index.md)
 
+## Library
+
+- [Library](./library/index.md)
+
 ## Latex
 
 - [overleaf](https://www.overleaf.com/): Collaborative Writing and Publishing, Latex Templates
