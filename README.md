@@ -19,6 +19,7 @@
 - [hcorrada](http://hcorrada.github.io) or [hcbravo](http://www.hcbravo.org): Statistical and computational methods for high-throughput genomics. Interactive data visualization. Metagenomics. Computational epigenomics.
 - [Katie Bouman](http://people.csail.mit.edu/klbouman/index.html): Imaging of Medical, Blackhole. California Institute of Technology 
 - [Bruce Rosen's Web Pages](http://web.cs.ucla.edu/~rosen/)
+- [Tim Cootes](https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/): Statistical models of shape and appearance; Model matching algorithms; Methods of computing correspondence across sets of shapes and images; Applications in medical, biological and industrial image analysis, and face image interpretation
 
 ## Writing
 
