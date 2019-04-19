@@ -3,6 +3,7 @@
 ## Notes
 
 - [Classification](./Classification/index.md)
+- [Detection](./Detection/index.md)
 - [Optimization](./Optimization/index.md)
 
 ## Collections
