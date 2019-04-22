@@ -20,6 +20,8 @@
 - [Katie Bouman](http://people.csail.mit.edu/klbouman/index.html): Imaging of Medical, Blackhole. California Institute of Technology 
 - [Bruce Rosen's Web Pages](http://web.cs.ucla.edu/~rosen/)
 - [Tim Cootes](https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/): Statistical models of shape and appearance; Model matching algorithms; Methods of computing correspondence across sets of shapes and images; Applications in medical, biological and industrial image analysis, and face image interpretation
+- [COR@L!](http://coral.ise.lehigh.edu/): PEOPLE, PUBLICATIONS, DATA SETS, LINKS
+
 
 ## Writing
 
@@ -74,7 +76,15 @@
 - [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall18/)
 - [Statistical Learning Theory](http://maxim.ece.illinois.edu/teaching/spring18/index.html)
 - [A Course in Machine Learning](http://ciml.info/): Decision Trees, Limits of Learning, Geometry and Nearest Neighbors, The Perceptron, Practical Issues, Beyond Binary Classification, Linear Models, Bias and Fairness, Probabilistic Modeling, Neural Networks, Kernel Methods, Learning Theory, Ensemble Methods, Efficient Learning, Unsupervised Learning, Expectation Maximization, Structured Prediction, Imitation Learning,
-## competition
+- [ES310 Introduction to Naval Weapons Engineering COURSE SYLLABUS](https://fas.org/man/dod-101/navy/docs/es310/syllabus.htm)
+
+
+## Tutorials
+
+- [Radar tutorial](http://www.radartutorial.eu/index.en.html): SAR, PolSAR, FMCW, CW, MIMO...
+
+
+## Competition
 
 - [datafountain](https://www.datafountain.cn/)
 

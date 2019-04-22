@@ -14,16 +14,38 @@
 
 ## Optimization
 
-### ADMM
+### ADMM SALSA Proximal
 
-- [homepage ADMM](https://web.stanford.edu/~boyd/admm.html): Books, Papers, Software, People 
+- [ADMM](https://web.stanford.edu/~boyd/admm.html): homepage --> Books, Papers, Software, People 
 
-### Proximal
+- [SALSA and C-SALSA](http://cascais.lx.it.pt/~mafonso/salsa.html): MATLAB 
 
-- [Proximity Operator](http://proximity-operator.net/): Matlab, Python
-- [Operator Discretization Library](https://odlgroup.github.io/odl/): Python, CUDA
-- [Proximal Operators](https://kul-forbes.github.io/ProximalOperators.jl/latest/): Julia
-- []()
+- Proximal
+   + [Proximity Operator](http://proximity-operator.net/): Matlab, Python
+   + [Operator Discretization Library](https://odlgroup.github.io/odl/): Python, CUDA
+   + [Proximal Operators](https://kul-forbes.github.io/ProximalOperators.jl/latest/): Julia
+
+
+
+
+### Sparse
+
+- [SparseLab](http://sparselab.stanford.edu/): Stanford --> Seeking Sparse Solutions To Linear Systems Of Equations, Matlab
+- [L1 Regularization](https://github.com/hzxsnczpku/L1-Regularized-Problem): Various kinds of methods for L1 regularization optimization problem, Matlab.
+- [Compressed Sensing Code](https://github.com/andreavs/Compressed-Sensing-code)
+
+### Other
+
+- [GIFT-Surg](https://github.com/gift-surg) : [sedumi](http://sedumi.ie.lehigh.edu/)
+   + [NiftyMIC](https://github.com/gift-surg/NiftyMIC): Motion Correction and Volumetric Image Reconstruction of 2D Ultra-fast MRI
+   + [SlicSeg](https://github.com/gift-surg/SlicSeg): An API and GUI application for semi-automated interactive segmentation of medical images. http://www.gift-surg.ac.uk
+   + [DyBaORF](https://github.com/gift-surg/DyBaORF): Dymanically Balanced Online Random Forest
+   + [GIFT-Grab](https://github.com/gift-surg/GIFT-Grab): An open-source C++ and Python API for acquiring, processing and encoding video streams in real time. Supports several frame-grabber cards, standard-compliant network streams and video files. Python API is compatible with NumPy and SciPy.
+
+
+# MRI
+
+- [NiftyMIC](https://github.com/gift-surg/NiftyMIC): Motion Correction and Volumetric Image Reconstruction of 2D Ultra-fast MRI
 
 
 
