@@ -81,6 +81,8 @@
 
 ## Tutorials
 
+
+- [Learning And Soft Computing](http://www.support-vector.ws/): Support Vector Machines, Neural Networks and Fuzzy Logic Models
 - [Radar tutorial](http://www.radartutorial.eu/index.en.html): SAR, PolSAR, FMCW, CW, MIMO...
 - [电子工程技术教程](https://www.st-andrews.ac.uk/~www_pa/Scots_Guide/intro/electron.htm): 电路, 地球, 模拟数字, 音频, 无线电与相干(Antennas, Modulation, Radar), 信息与测量(Sampling, Sensors, Amplifiers, Compression...)
 - [光谱音频信号处理](https://ccrma.stanford.edu/~jos/sasp/sasp.html): Stanford
