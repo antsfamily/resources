@@ -1,4 +1,4 @@
-# resources
+﻿# resources
 
 ## Info
 
@@ -77,7 +77,7 @@
 - [Statistical Learning Theory](http://maxim.ece.illinois.edu/teaching/spring18/index.html)
 - [A Course in Machine Learning](http://ciml.info/): Decision Trees, Limits of Learning, Geometry and Nearest Neighbors, The Perceptron, Practical Issues, Beyond Binary Classification, Linear Models, Bias and Fairness, Probabilistic Modeling, Neural Networks, Kernel Methods, Learning Theory, Ensemble Methods, Efficient Learning, Unsupervised Learning, Expectation Maximization, Structured Prediction, Imitation Learning,
 - [ES310 Introduction to Naval Weapons Engineering COURSE SYLLABUS](https://fas.org/man/dod-101/navy/docs/es310/syllabus.htm): 海军武器工程概论
-
+- [模糊理论与模糊系统](http://see.xidian.edu.cn/faculty/xbgao/fuzzysystem/): 高新波
 
 ## Tutorials
 
