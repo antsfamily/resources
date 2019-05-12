@@ -21,7 +21,7 @@
 - [Bruce Rosen's Web Pages](http://web.cs.ucla.edu/~rosen/)
 - [Tim Cootes](https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/): Statistical models of shape and appearance; Model matching algorithms; Methods of computing correspondence across sets of shapes and images; Applications in medical, biological and industrial image analysis, and face image interpretation
 - [COR@L!](http://coral.ise.lehigh.edu/): PEOPLE, PUBLICATIONS, DATA SETS, LINKS
-
+- [Random Thoughts](http://rt.dgyblog.com/): A wiki of dgyrt@github's random thoughts.
 
 ## Writing
 
