@@ -2,7 +2,7 @@
 
 - [Compression](./compression.md)
 - [Face](./face.md)
-
+- [Misc](./misc.md)
 
 ## Collections
 
