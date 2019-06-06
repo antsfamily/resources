@@ -2,6 +2,9 @@
 
 ## Info
 
+
+- [AnyDesk](./AnyDesk.apk)
+
 - [西电](./info/xidian/index.md)
 
 
