@@ -10,7 +10,7 @@
 
 ## Homepage
 
-
+- [Jun-Yan Zhu](http://people.csail.mit.edu/junyanz/)
 - [Center for Imaging Science (CIS)](http://cis.jhu.edu/index.php): People, Research, DataSets, Software
 - [Aminer](https://www.aminer.cn/): Data, Knowledge, Intelligence
 - [Advanced Google](https://www.advancedgoogle.com/)
