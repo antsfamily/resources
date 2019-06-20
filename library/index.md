@@ -49,6 +49,7 @@
 # MRI
 
 - [NiftyMIC](https://github.com/gift-surg/NiftyMIC): Motion Correction and Volumetric Image Reconstruction of 2D Ultra-fast MRI
+- [MRiLab](https://leoliuf.github.io/MRiLab/): A numerical MRI simulator. MRiLab is a rapid and versatile numerical MRI simulator with Matlab interface and GPU parallel acceleration on Windows and Linux
 
 
 
