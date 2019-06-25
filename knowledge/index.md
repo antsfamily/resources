@@ -13,6 +13,7 @@
 - [Wikipedia ZH upupming ](https://w.upupming.site/): Wikipedia中文镜像1, PC
 - [Wikipedia ZH upupming](https://mw.upupming.site/): Wikipedia中文镜像1, Phone
 - [wikimedia dumps](https://dumps.wikimedia.org/): 离线转储
+- [wikimedia dumps 20190601](https://dumps.wikimedia.org/wikidatawiki/20190601/)
 
 ## 可汗学院
 
