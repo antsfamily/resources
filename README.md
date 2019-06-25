@@ -36,9 +36,7 @@
 
 ## Knowledge Base
 
-- [Wolfram Mathworld](http://mathworld.wolfram.com/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
-
+- [Knowledge Basis](./knowledge/index.md)
 
 ## DataSets
 
