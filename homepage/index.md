@@ -15,3 +15,5 @@
 - [Tim Cootes](https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/): Statistical models of shape and appearance; Model matching algorithms; Methods of computing correspondence across sets of shapes and images; Applications in medical, biological and industrial image analysis, and face image interpretation
 - [COR@L!](http://coral.ise.lehigh.edu/): PEOPLE, PUBLICATIONS, DATA SETS, LINKS
 - [Random Thoughts](http://rt.dgyblog.com/): A wiki of dgyrt@github's random thoughts.
+- [distill](https://distill.pub/): A modern medium for presenting research. The web is a powerful medium to share new ways of thinking.
+
