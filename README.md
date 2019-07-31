@@ -73,7 +73,7 @@
 
 ## Resources
 
-- [Digital Library](https://digital-library.theiet.org/): Journals & magazines, Conferences, eBooks, Reference, Subjects, Collections
+- [IET Digital Library](https://digital-library.theiet.org/): Journals & magazines, Conferences, eBooks, Reference, Subjects, Collections
 
 
 ## Competition
