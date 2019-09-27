@@ -18,3 +18,5 @@
 - [distill](https://distill.pub/): A modern medium for presenting research. The web is a powerful medium to share new ways of thinking.
 
 - [Jufeng Yang](http://cv.nankai.edu.cn/): computer vision, machine learning, and multimedia. His recent interests include visual sentiment analysis, fine-grained classification, medical image recognition, and image retrieval. 
+
+- [Lil'Log](https://lilianweng.github.io/lil-log/): Evolution, Meta Learning, Reinforcement Learning, Attention, Object Detection, Language Models
