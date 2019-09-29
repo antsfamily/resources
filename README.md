@@ -61,7 +61,7 @@
 
 ## Open Course
 
-- [Open Course](./opencourse/.md)
+- [Open Course](./opencourse.md)
 
 ## Tutorials
 
