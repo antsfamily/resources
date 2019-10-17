@@ -20,3 +20,5 @@
 - [Jufeng Yang](http://cv.nankai.edu.cn/): computer vision, machine learning, and multimedia. His recent interests include visual sentiment analysis, fine-grained classification, medical image recognition, and image retrieval. 
 
 - [Lil'Log](https://lilianweng.github.io/lil-log/): Evolution, Meta Learning, Reinforcement Learning, Attention, Object Detection, Language Models
+
+- [Yunji Chen](http://novel.ict.ac.cn/ychen/index_cn.html): neural network processors
